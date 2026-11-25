@@ -1,1 +1,1 @@
-# Average-Calc
+# Ave-Calc
